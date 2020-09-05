@@ -16,7 +16,7 @@ on:
     types: published
   push:
     branches:
-      - master
+      - main
     paths:
       - 'Newifi_D2.config'
 #  schedule:
